@@ -1,15 +1,15 @@
 # AI Hairstyle Recommender
 
-## Описание
-Веб-приложение для рекомендации причёсок на основе формы лица и параметров волос.
+## ## Description
+A web application for hairstyle recommendations based on facial shape analysis and hair parameters.
 
-## Технологии
+## Technologies
 - Python
-- Streamlit (интерфейс)
-- MediaPipe (анализ лица)
-- Scikit-learn (ML)
+- Streamlit (UI interface)
+- MediaPipe (facial recognition)
+- Scikit-learn (machine learning)
 
-## Как запустить
+## How to Run
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
