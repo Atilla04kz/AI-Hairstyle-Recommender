@@ -1,6 +1,6 @@
 # AI Hairstyle Recommender
 
-## ## Description
+## Description
 A web application for hairstyle recommendations based on facial shape analysis and hair parameters.
 
 ## Technologies
